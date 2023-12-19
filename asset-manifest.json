@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-program1/static/css/main.d4b48ded.css",
+    "main.js": "/React-program1/static/js/main.11898efb.js",
+    "static/js/787.26d2f42e.chunk.js": "/React-program1/static/js/787.26d2f42e.chunk.js",
+    "static/media/contactus_bg.jpg": "/React-program1/static/media/contactus_bg.00415bd3af0e33cf86d8.jpg",
+    "index.html": "/React-program1/index.html",
+    "main.d4b48ded.css.map": "/React-program1/static/css/main.d4b48ded.css.map",
+    "main.11898efb.js.map": "/React-program1/static/js/main.11898efb.js.map",
+    "787.26d2f42e.chunk.js.map": "/React-program1/static/js/787.26d2f42e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4b48ded.css",
+    "static/js/main.11898efb.js"
+  ]
+}
